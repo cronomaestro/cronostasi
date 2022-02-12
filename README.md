@@ -1,2 +1,2 @@
 # cronostasi
-This is my personal gemini capsule.
+Hi, I'm cronomaestro, and this is my personal gemini capsule.
