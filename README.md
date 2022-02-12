@@ -1,2 +1,2 @@
 # cronostasi
-just my gemini capsule
+This is my personal gemini capsule.
