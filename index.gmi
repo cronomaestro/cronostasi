@@ -15,11 +15,11 @@ I love writing journals, play videogames, especially roguelikes, RTS games, and 
 
 This page is under construction as of 2022-02-12. Remember to check it out once in a while!
 
-Coming soon:
+### Coming soon:
 
 * What I've learned while studying German
 * Miscellanea
 
-"cronostasi" is Italian for chronostasis. Wikipedia: 
-> a type of temporal illusion in which the first impression following the introduction of a new event or task-demand to the brain can appear to be extended in time. 
-> A common occurrence of this illusion is known as the stopped-clock illusion, where the second hand of an analog clock appears to stay still for longer than normal when looking at it for the first time.
+### Where can you find me:
+* => https://koyu.space/@cronomaestro   my koyu.space profile
+* => https://cronostasi.noblogs.org     my wordpress blog
