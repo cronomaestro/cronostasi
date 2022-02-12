@@ -22,6 +22,10 @@ Huge thanks to @koyuchan for hosting this capsule on her site. You rock, girl!
 
 * what I've learned while studying German
 * how to keep a daily journal
+<<<<<<< HEAD
+* random stuff about my life
+=======
+>>>>>>> refs/remotes/origin/main
 
 ### Where can you find me:
 * => https://koyu.space/@cronomaestro   my koyu.space profile
