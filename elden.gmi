@@ -23,4 +23,4 @@ When I played Kingdom Hearts, there were moments I couldn't wait for me to get b
 -- cronomaestro
 2022/03/03
 
-=> index.gmi go back
+=> gemini://koyu.space/cronomaestro/index.gmi go back
