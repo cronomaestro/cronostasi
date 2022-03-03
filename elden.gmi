@@ -24,4 +24,4 @@ When I played Kingdom Hearts, there were moments I couldn't wait for me to get b
 -- cronomaestro
 2022/03/03
 
-=> cronostasi/index.gmi go back
+=> cronomaestro/index.gmi go back
